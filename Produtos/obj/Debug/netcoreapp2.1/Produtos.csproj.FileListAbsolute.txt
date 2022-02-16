@@ -1,0 +1,13 @@
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\bin\Debug\netcoreapp2.1\Produtos.deps.json
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\bin\Debug\netcoreapp2.1\Produtos.runtimeconfig.json
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\bin\Debug\netcoreapp2.1\Produtos.runtimeconfig.dev.json
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\bin\Debug\netcoreapp2.1\Produtos.dll
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\bin\Debug\netcoreapp2.1\Produtos.pdb
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\obj\Debug\netcoreapp2.1\Produtos.csproj.AssemblyReference.cache
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\obj\Debug\netcoreapp2.1\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\obj\Debug\netcoreapp2.1\Produtos.AssemblyInfoInputs.cache
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\obj\Debug\netcoreapp2.1\Produtos.AssemblyInfo.cs
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\obj\Debug\netcoreapp2.1\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\obj\Debug\netcoreapp2.1\Produtos.dll
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\obj\Debug\netcoreapp2.1\Produtos.pdb
+C:\Users\Pablo\Documents\C#\Treinos\Produtos\Produtos\obj\Debug\netcoreapp2.1\Produtos.genruntimeconfig.cache
